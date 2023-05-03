@@ -12,3 +12,6 @@ https://developer.android.com/ https://developer.android.com/reference
 
 # build:
 - https://source.android.com/docs/setup
+
+# source Lifetime:
+https://source.android.com/docs/setup/about/codelines
