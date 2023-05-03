@@ -10,7 +10,7 @@ https://developer.android.com/ https://developer.android.com/reference
 ## Kernel
 - https://source.android.com/docs/core/architecture/kernel
 
-# build:
+# home:
 - https://source.android.com/docs/setup
 
 # source & codelines: Lifetime
